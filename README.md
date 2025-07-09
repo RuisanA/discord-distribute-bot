@@ -1,1 +1,0 @@
-# discord-distribute-bot
